@@ -1,6 +1,4 @@
-
 <?php
-
 
 namespace Mindfullsilence\LaravelRuncloudSdk\Facades;
 

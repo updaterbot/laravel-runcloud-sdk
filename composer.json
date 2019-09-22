@@ -23,5 +23,15 @@
     "psr-4": {
       "Mindfullsilence\\LaravelRuncloudSdk\\": "src/"
     }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Mindfullsilence\\LaravelRuncloudSdk\\": "src/",
+      "Mindfullsilence\\LaravelRuncloudSdk\\Test\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "7.5.x-dev",
+    "orchestra/testbench": "3.8.x-dev"
   }
 }
