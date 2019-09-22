@@ -1,0 +1,26 @@
+{
+  "name": "mindfullsilence/laravel-runcloud-sdk",
+  "description": "Laravel package wrapper around the runcloud API SDK",
+  "authors": [
+    {
+      "name": "Timothy Anderson",
+      "email": "info@creativesunderground.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "onhover/runcloud-sdk": "v1.1.*"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Mindfullsilence\\LaravelRuncloudSdk\\Providers\\RuncloudClientProvider"
+      ]
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Mindfullsilence\\LaravelRuncloudSdk\\": "src/"
+    }
+  }
+}
