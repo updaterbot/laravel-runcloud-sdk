@@ -1,6 +1,7 @@
 {
   "name": "mindfullsilence/laravel-runcloud-sdk",
   "description": "Laravel package wrapper around the runcloud API SDK",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Timothy Anderson",
