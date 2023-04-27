@@ -13,7 +13,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "updaterbot/runcloud-sdk": "v1.1.*"
+    "updaterbot/runcloud-sdk": "v1.0.*"
   },
   "extra": {
     "laravel": {
