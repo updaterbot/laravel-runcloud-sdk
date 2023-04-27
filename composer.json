@@ -1,16 +1,19 @@
 {
-  "name": "mindfullsilence/laravel-runcloud-sdk",
+  "name": "updaterbot/laravel-runcloud-sdk",
   "description": "Laravel package wrapper around the runcloud API SDK",
   "version": "1.0.1",
   "authors": [
     {
       "name": "Timothy Anderson",
       "email": "info@creativesunderground.com"
+    },{
+      "name": "bicsakszerk",
+      "email": "bicsakszerk@gmail.com"
     }
   ],
   "minimum-stability": "dev",
   "require": {
-    "onhover/runcloud-sdk": "v1.1.*"
+    "updaterbot/runcloud-sdk": "v1.1.*"
   },
   "extra": {
     "laravel": {
