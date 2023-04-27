@@ -2,13 +2,13 @@ Laravel Runcloud SDK
 ===
 
 This is a simple laravel package that creates a provider for the SDK developed by onhonvercode here:
-https://github.com/onhovercode/runcloud-sdk
+https://github.com/updaterbot/runcloud-sdk
 
 Installation
 --
 Require the package via composer in your laravel app:
 ```bash
-composer require mindfullsilence/laravel-runcloud-sdk
+composer require updaterbot/laravel-runcloud-sdk
 ```
 
 ### Publish the package:
